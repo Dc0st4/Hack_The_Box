@@ -32,10 +32,10 @@
 ## **Envie a flag**
 *write-up:*
 ~~~shell
-# smbclient //10.129.52.23/WorkShares
-# ls 
-# cd James.P
-# ls
-# get flag.txt
-# HTB{∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎}
+ smbclient //10.129.52.23/WorkShares
+ ls 
+ cd James.P
+ ls
+ get flag.txt
+ HTB{∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎}
 ~~~
