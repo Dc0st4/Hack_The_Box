@@ -4,7 +4,7 @@
 
 1. **O que significa a sigla VM?** 
 *R:* `Virtual Machine`
-<br/>
+
 2. **Que ferramenta usamos para interagir com o sistema operacional para iniciar nossa conexão VPN?**
 *R:* `Terminal`
 <br/>
