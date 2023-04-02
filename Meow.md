@@ -8,7 +8,7 @@
 2. **Que ferramenta usamos para interagir com o sistema operacional para iniciar nossa conexão VPN?**
 *R:* `Terminal`
 
-3. **Que serviço usamos para formar nossa conexão VPN?**
+3. **Que serviço usamos para formar nossa conexão VPN?** 
 *R:* `openvpn`
 
 4. **Qual é o nome abreviado de uma interface de túnel na saida da sequência de inicialização da VPN?**
@@ -22,10 +22,10 @@
 
 7. **Qual serviço identificamos na porta 23/tcp durante a varredura?**
 *R:* `telnet`
-<br/>
+
 8. **Qual nome de usuário funciona com o prompt de login de gerenciamento remoto para o destino?**
 *R:* `root`
-<br/>
+
 **Envie a flag**
 _write-up_:
 > telnet 10.129.33.211 23
