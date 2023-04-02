@@ -11,8 +11,8 @@
 3. **Que serviço usamos para formar nossa conexão VPN?**
 *R:* `openvpn`
 
-4.  **Qual é o nome abreviado de uma interface de túnel na saida da sequência de inicialização da VPN?**
-*R:* `tun`
+4. **Qual é o nome abreviado de uma interface de túnel na saida da sequência de inicialização da VPN?**
+    *R:* `tun`
 
 5. **Que ferramenta usamos para testar nossa conexão com o alvo?**
 *R:* `ping`
