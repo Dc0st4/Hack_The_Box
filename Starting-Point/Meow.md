@@ -28,7 +28,7 @@
 
 ## **Envie a flag**
 _write-up_:
-~~~bash
+~~~shell
 # telnet 10.129.33.211 23
 # Meow login: root
 # ls
