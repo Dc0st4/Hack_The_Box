@@ -28,7 +28,7 @@
 8. **De suas verificações, qual tipo de sistema operacional está sendo executado no destino?**
 *R:* `Unix`
 
-## **Envie a flag root**
+## **Envie a flag**
 *write-up:*
 ~~~shell
 # ftp anonymous@10.129.240.218
