@@ -31,8 +31,8 @@
 ## **Envie a flag**
 *write-up:*
 ~~~shell
-# ftp anonymous@10.129.240.218
-# ls
-# more flag.txt
-# HTB{∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎}
+ ftp anonymous@10.129.240.218
+ ls
+ more flag.txt
+ HTB{∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎}
 ~~~
