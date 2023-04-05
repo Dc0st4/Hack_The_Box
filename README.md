@@ -17,7 +17,7 @@
 - [Photobomb](https://github.com/Dc0st4/Hack_The_Box/blob/main/Machines/Photobomb.md)
 
 ### Challenges
-#### Hardware:
+##### Hardware:
 - [Debugging Interfaces](https://github.com/Dc0st4/Hack_The_Box/blob/main/Challenges/Debugging%20Interfaces.md)
-#### Web
+##### Web:
 - [Templated]()
