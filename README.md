@@ -14,3 +14,10 @@
 
 ### Machines
 - [TimeLapse](https://github.com/Dc0st4/Hack_The_Box/blob/main/Machines/TimeLapse.md)
+- [Photobomb](https://github.com/Dc0st4/Hack_The_Box/blob/main/Machines/Photobomb.md)
+
+### Challenges
+#### Hardware:
+- [Debugging Interfaces]
+#### Web
+- []
