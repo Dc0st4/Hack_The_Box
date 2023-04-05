@@ -18,6 +18,6 @@
 
 ### Challenges
 #### Hardware:
-- [Debugging Interfaces]
+- [Debugging Interfaces](https://github.com/Dc0st4/Hack_The_Box/blob/main/Challenges/Debugging%20Interfaces.md)
 #### Web
 - []
