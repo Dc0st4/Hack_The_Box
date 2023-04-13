@@ -20,4 +20,4 @@
 ##### Hardware:
 - [Debugging Interfaces](https://github.com/Dc0st4/Hack_The_Box/blob/main/Challenges/Debugging%20Interfaces.md)
 ##### Web:
-- [Templated]()
+- [Templated](https://github.com/Dc0st4/Hack_The_Box/blob/main/Challenges/Templated.md)
